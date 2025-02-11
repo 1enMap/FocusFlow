@@ -2,7 +2,7 @@
 
 FocusFlow is a modern productivity application that combines task management with the Pomodoro Technique, featuring a unique virtual garden that grows as you maintain your focus. Built with React and TypeScript, it offers a beautiful, responsive interface with both light and dark modes.
 
-![FocusFlow Screenshot](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072)
+![Try Live](https://merry-twilight-d53a4c.netlify.app/)
 
 ## ✨ Features
 
